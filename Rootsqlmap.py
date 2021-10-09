@@ -2,8 +2,7 @@ import time
 import os
 
 print("[+] Root sql scanner")
-print("[+] Code by n0ir & RootMrSpy")
-
+print("[+] Code by RootMrSpy")
 
 print("")
 site = input("[+] Saldırı yapılacak site: ")
